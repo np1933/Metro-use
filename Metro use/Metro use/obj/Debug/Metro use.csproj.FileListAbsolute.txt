@@ -1,0 +1,68 @@
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\Metro use.exe.config
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\Metro use.exe
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\Metro use.pdb
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MetroFramework.dll
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MetroFramework.Fonts.dll
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro use.csprojResolveAssemblyReference.cache
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.Properties.Resources.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro use.csproj.GenerateResource.Cache
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro use.exe
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro use.pdb
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.Home.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.Login.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.Employee_Details.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MySql.Data.dll
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MySql.Web.dll
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MySql.Data.xml
+H:\7th sem\Project\Rest\Metro use\Metro use\bin\Debug\MySql.Web.xml
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.addtax.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.tax.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.new_employee.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.MenuSetup.resources
+H:\7th sem\Project\Rest\Metro use\Metro use\obj\Debug\Metro_use.stock.resources
+D:\visual studio projects\Metro use\Metro use\bin\Debug\Metro use.exe.config
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro use.exe
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro use.pdb
+D:\visual studio projects\Metro use\Metro use\bin\Debug\Metro use.exe
+D:\visual studio projects\Metro use\Metro use\bin\Debug\Metro use.pdb
+D:\visual studio projects\Metro use\Metro use\bin\Debug\MetroFramework.dll
+D:\visual studio projects\Metro use\Metro use\bin\Debug\MetroFramework.Fonts.dll
+D:\visual studio projects\Metro use\Metro use\bin\Debug\mscorlib.dll
+D:\visual studio projects\Metro use\Metro use\bin\Debug\MySql.Data.xml
+D:\visual studio projects\Metro use\Metro use\bin\Debug\MySql.Web.xml
+D:\visual studio projects\Metro use\Metro use\bin\Debug\normidna.nlp
+D:\visual studio projects\Metro use\Metro use\bin\Debug\normnfc.nlp
+D:\visual studio projects\Metro use\Metro use\bin\Debug\normnfd.nlp
+D:\visual studio projects\Metro use\Metro use\bin\Debug\normnfkc.nlp
+D:\visual studio projects\Metro use\Metro use\bin\Debug\normnfkd.nlp
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro use.csprojResolveAssemblyReference.cache
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.addtax.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.Employee_Details.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.Home.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.Login.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.MenuSetup.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.new_employee.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.Properties.Resources.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.stock.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro_use.tax.resources
+D:\visual studio projects\Metro use\Metro use\obj\Debug\Metro use.csproj.GenerateResource.Cache
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\Metro use.exe.config
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro use.exe
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro use.pdb
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\Metro use.exe
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\Metro use.pdb
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\MetroFramework.dll
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\MySql.Data.xml
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\bin\Debug\MySql.Web.xml
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro use.csprojResolveAssemblyReference.cache
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.addtax.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.Employee_Details.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.Home.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.Login.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.MenuSetup.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.new_employee.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.Properties.Resources.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.stock.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro_use.tax.resources
+C:\Users\Mithun Manoharan\Downloads\Metro use\Metro use\Metro use\obj\Debug\Metro use.csproj.GenerateResource.Cache
